@@ -41,3 +41,5 @@ const lastLetter = wizard[wizard.length - 1];
 console.log(`The index of the last 'e' in 'Dumbledore' is ${totalLength}.`);
 // why doesn't this match?
 console.log(wizard.lastIndexOf("e"));
+
+//
